@@ -1,0 +1,54 @@
+#roma-logo {
+    display: inline-block;
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#search-box {
+    display: inline-block;
+    margin-left: 60%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+nav {
+    margin-bottom: 3%;
+}
+
+h1 {
+    margin-top: 20%;
+    font-size: larger;
+}
+
+table {
+    margin-left: 4%;
+    padding-right: 4%;
+
+}
+
+#inserir {
+    margin-left: 25%;
+}
+
+form {
+    width: 50%;
+    align-self: center;
+    margin-left: 25%;
+}
+
+
+footer {
+    margin: 1%;
+    padding-left: 50%;
+    display: flex;
+    color: gray;
+    border-top: solid lightgray 0.5px;
+    padding-top: 2%;
+}
